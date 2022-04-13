@@ -1,0 +1,21 @@
+[cap2]
+cap2 = "172.16.0.1"
+
+[My Computer]
+My Computer = "165.229.153.70"
+
+[NI-myRIO-1900-03193cdc]
+NI-myRIO-1900-03193cdc = "172.22.11.2"
+
+[NI-myRIO-1900-031afccc]
+NI-myRIO-1900-031afccc = "172.22.11.2"
+
+[NI-myRIO-JY]
+NI-myRIO-JY = "172.22.11.2"
+
+[RT myRIO Target]
+RT myRIO Target = "172.16.0.1"
+
+[내 컴퓨터]
+내 컴퓨터 = "172.22.11.1"
+
